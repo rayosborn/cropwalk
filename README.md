@@ -12,5 +12,9 @@ The files contain multiple worksheets that are linked to allow results from indi
 
 Adding and Removing Teams
 =========================
-* To add a team, insert a row above the ‘Unaffiliated’ team on the Setup sheet. Duplicate one of the team sheet and edit the formula of the full name field to point to the full name in this table (in Excel, you may need to change the cell type to "General" to make sure the cell reference is interpreted as a formula). Make sure that the team abbreviation and sheet names match. Do the same on the “Summary” and “Accounts” sheets and copy the formulae from another team row. 
+* To add a team, insert a row above the ‘Unaffiliated’ team on the Setup sheet. Duplicate one of the team sheets and edit the formula of the full name field to point to the full name in this table (In Excel, you may need to change the cell type to "General" to make sure the cell reference is interpreted as a formula). Make sure that the team abbreviation and sheet names match. Do the same on the “Summary” and “Accounts” sheets and copy the formulae from another team row. 
 * To remove a team, delete the sheet and the corresponding rows here and in the “Summary” and “Accounts” sheets.
+
+Envelope Numbers
+================
+* Church World Service is now encouraging the use of unnumbered donation envelopes to save printing costs. The envelope column now contains a formula giving the row number, but if numbered envelopes are used, the formulae can be replaced by their respective numbers.
