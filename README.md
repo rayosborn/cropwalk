@@ -1,6 +1,8 @@
 # cropwalk
 This repository contains spreadsheets designed to be used by treasurers of CROP Hunger Walks. Both Excel and Apple Numbers versions are available for download.
 
+![Screenshot](https://github.com/rayosborn/cropwalk/blob/master/cropwalk-spreadsheet.png)
+
 General Use
 ===========
 The files contain multiple worksheets that are linked to allow results from individual teams to be consolidated for overall summaries.
